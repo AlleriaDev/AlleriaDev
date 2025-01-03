@@ -15,7 +15,7 @@ Alleria Dev was created in 2023 by Sergio Zárraga... basically me, the writer o
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleriaDev&hide_progress=true&show_icons=true&theme=ocean_dark)
 
-## **Technologies and System**
+## **Technologies and Systems**
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
