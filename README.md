@@ -26,7 +26,8 @@ Alleria Dev was created in 2023 by Sergio Zárraga... basically me, the writer o
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
+![image](https://shields.io/badge/-PHP-3776AB?style=flat&logo=php)
 <!--
 **avanegasp/avanegasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
