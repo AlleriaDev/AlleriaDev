@@ -11,7 +11,9 @@ Alleria Dev was created in 2023 by Sergio Zárraga... basically me, the writer o
   
 
 ### My Stats on GitHub
-![Alleria's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleriaDev&show_icons=true&theme=ocean_dark)
+![Alleria's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlleriaDev&show_icons=true&theme=ocean_dark&cache_seconds=86400
+)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlleriaDev&hide_progress=true&show_icons=true&theme=ocean_dark)
 
